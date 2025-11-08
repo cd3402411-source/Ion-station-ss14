@@ -1038,3 +1038,17 @@ Entries:
         stopped cyberlungs with dexalin.
   id: 123
   time: '2025-11-05T20:11:51.0000000+00:00'
+- author: 3PonPon3
+  changes:
+    - type: Add
+      message: >-
+        Added a cooler decorated cloak for the CMO to have, available in CMO's
+        loadout with the same 20hr requirement the mantle has. Credits to
+        phantasai on github for the sprites!
+    - type: Add
+      message: >-
+        Added the modern CMO mantle, a modernised version of the old mantle.
+        Available in CMO's loadout with the same 20hr requirement the old mantle
+        has. Credits to phantasai on github for the sprites!
+  id: 124
+  time: '2025-11-08T08:25:42.0000000+00:00'
